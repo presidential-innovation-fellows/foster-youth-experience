@@ -1,4 +1,8 @@
 # Foster Youth Experience
+[![Build Status](https://travis-ci.org/presidential-innovation-fellows/foster-youth-experience.svg?branch=master)](https://travis-ci.org/presidential-innovation-fellows/foster-youth-experience)
+[![Code Climate](https://codeclimate.com/repos/57d0476071cb6c539d0014cc/badges/b067ec73403e5cc628b2/gpa.svg)](https://codeclimate.com/repos/57d0476071cb6c539d0014cc/feed)
+[![Test Coverage](https://codeclimate.com/repos/57d0476071cb6c539d0014cc/badges/b067ec73403e5cc628b2/coverage.svg)](https://codeclimate.com/repos/57d0476071cb6c539d0014cc/coverage)
+
 This app is a modified version of the
 [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter)
 and is built in Angular RC6.
@@ -27,7 +31,7 @@ defined in this guide.
 # License
 This repo is built on top of the
 [Angular2 Webpack Starter](https://github.com/AngularClass/angular2-webpack-starter)
-from Angular Class and includes the original [MIT](/LICENSE). Should you choose
-to use this repo for your own purposes, be sure to retain the MIT license that
-comes with it.
+from Angular Class and includes the original [MIT License](/LICENSE). Should you
+choose to use this repo for your own purposes, be sure to retain the MIT license
+that comes with it.
 

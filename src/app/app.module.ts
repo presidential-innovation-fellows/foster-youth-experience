@@ -14,7 +14,7 @@ import { ROUTES } from './app.routes';
 // App is our top level component
 import { AppComponent } from './components/app';
 import { APP_RESOLVER_PROVIDERS } from './app.resolver';
-import { Home } from './components/home';
+import { HomeComponent } from './components/home';
 
 // Application wide providers
 const APP_PROVIDERS = [
@@ -34,7 +34,7 @@ const APP_PROVIDERS = [
   ],
   declarations: [
     AppComponent,
-    Home
+    HomeComponent
   ],
   providers: [ // expose our Services and Providers into Angular's dependency injection
     ENV_PROVIDERS,

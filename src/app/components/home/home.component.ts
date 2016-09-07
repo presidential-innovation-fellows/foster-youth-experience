@@ -8,7 +8,9 @@ import { Component } from '@angular/core';
   styles: [require('./home.style.scss')],
   template: require('./home.template.html')
 })
-export class Home {
+export class HomeComponent {
+  url = 'https://pif.gov';
+
   constructor() {}
 
   ngOnInit() {
